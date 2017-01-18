@@ -1,0 +1,22 @@
+{
+  "name": "ika",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunoru/IKA.git"
+  },
+  "keywords": [
+    "Splatoon"
+  ],
+  "author": "スノル",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sunoru/IKA/issues"
+  },
+  "homepage": "https://github.com/sunoru/IKA#readme"
+}
